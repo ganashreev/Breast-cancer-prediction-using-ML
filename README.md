@@ -17,3 +17,4 @@ This project uses a VGG16-based Convolutional Neural Network (CNN) to classify b
 
 ## Accuracy
 Approximately 94–95%
+Note: The trained model file (breast_cancer_model.h5) is not included in this repository due to file size limitations.
